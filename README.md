@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayaalsaedi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning front and backend coding
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning front and back-end coding
 - 📫 to contact me please send me an email: rayaheen@uw.edu
 
 <!---
