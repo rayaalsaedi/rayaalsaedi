@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rayaalsaedi
+- 👋 Hi, I’m Raya Abd
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front and back-end coding
 - 📫 to contact me please send me an email: rayaheen@uw.edu
