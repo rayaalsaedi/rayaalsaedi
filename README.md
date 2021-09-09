@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Raya Abd
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front and back-end coding
+- 👀 I’m interested in web development and managing diverse teams
 - 📫 to contact me please send me an email: rayaheen@uw.edu
 
 <!---
